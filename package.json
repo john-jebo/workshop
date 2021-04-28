@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.24.0"
+  },
+  "devDependencies": {
+    "sgmf-scripts": "^2.4.1"
   }
 }
