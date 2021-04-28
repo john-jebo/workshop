@@ -1,0 +1,4 @@
+To create a branch from what you have done use:
+git switch -c 'forgot'
+
+"forgot" is the branch name
