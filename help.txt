@@ -2,3 +2,8 @@ To create a branch from what you have done use:
 git switch -c 'forgot'
 
 "forgot" is the branch name
+
+
+git rebase main 
+
+#from the above main is the name of the branch
